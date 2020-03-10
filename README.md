@@ -1,0 +1,1 @@
+# Simple REST application based on Spring Guru course.
